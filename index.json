@@ -1,0 +1,27 @@
+[
+    {
+        "NumeroDeRegistro":0,
+        "Nombre":"",
+        "Extension":"gitignore"
+    },
+    {
+        "NumeroDeRegistro":1,
+        "Nombre":"index",
+        "Extension":"json"
+    },
+    {
+        "NumeroDeRegistro":2,
+        "Nombre":"Program",
+        "Extension":"cs"
+    },
+    {
+        "NumeroDeRegistro":3,
+        "Nombre":"README",
+        "Extension":"md"
+    },
+    {
+        "NumeroDeRegistro":4,
+        "Nombre":"tp09-2022-loboser",
+        "Extension":"csproj"
+    }
+]
